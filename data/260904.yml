@@ -7,7 +7,7 @@ about:
   head: 541dd07
   archived: false
   latestVersion: 0.9.80
-  collectedAt: 2026-09-04T19:26:57Z
+  collectedAt: 2026-09-04T21:04:48Z
 timeline:
   created: 2015-08-08
   lastCommit: 2026-09-04
@@ -15,7 +15,7 @@ timeline:
 popularity:
   star: 7625
   watcher: 93
-  fork: 674
+  fork: 675
   release: 16
   contributor: 344
   pullRequest: 2895
@@ -88,6 +88,89 @@ total:
   openIssue: 502
   commit: 11140
 ---
+path: /home/runner/.x-repo/github.com/netblue30/firejail
+collectedAt: 2026-09-04T21:04:51Z
+loc:
+  C:
+    code: 33992
+    comments: 5891
+    blanks: 5194
+    files: 143
+  CHeader:
+    code: 14134
+    comments: 727
+    blanks: 344
+    files: 56
+  Autoconf:
+    code: 5416
+    comments: 178
+    blanks: 736
+    files: 14
+  Bitbake:
+    code: 2568
+    comments: 264
+    blanks: 143
+    files: 32
+  Sh:
+    code: 1684
+    comments: 363
+    blanks: 471
+    files: 45
+  Makefile:
+    code: 677
+    comments: 47
+    blanks: 161
+    files: 32
+  Python:
+    code: 617
+    comments: 47
+    blanks: 110
+    files: 7
+  RPMSpecfile:
+    code: 44
+    comments: 0
+    blanks: 8
+    files: 1
+  Bash:
+    code: 40
+    comments: 5
+    blanks: 6
+    files: 1
+  AWK:
+    code: 32
+    comments: 20
+    blanks: 3
+    files: 1
+  VimScript:
+    code: 16
+    comments: 1
+    blanks: 1
+    files: 2
+  M4:
+    code: 15
+    comments: 36
+    blanks: 2
+    files: 1
+  Perl:
+    code: 12
+    comments: 12
+    blanks: 9
+    files: 1
+  Markdown:
+    code: 0
+    comments: 450
+    blanks: 159
+    files: 3
+  Text:
+    code: 0
+    comments: 6529
+    blanks: 93
+    files: 3
+total:
+  code: 59247
+  comments: 14570
+  blanks: 7440
+  files: 342
 ---
 date: "2026-08-24"
 repo:
