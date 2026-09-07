@@ -5,13 +5,13 @@ about:
   head: 7628cab
   archived: false
   latestVersion: "0.9.80"
-  collectedAt: 2026-09-07T05:26:44Z
+  collectedAt: 2026-09-07T18:59:51Z
 timeline:
   created: 2015-08-08
   lastCommit: 2026-09-06
   lastRelease: 2026-03-14
 popularity:
-  star: 7630
+  star: 7632
   watcher: 94
   fork: 675
   release: 16
@@ -87,7 +87,7 @@ total:
   commit: 11141
 ---
 path: /home/runner/.x-repo/github.com/netblue30/firejail
-collectedAt: 2026-09-07T05:26:48Z
+collectedAt: 2026-09-07T18:59:55Z
 loc:
   C:
     code: 33992
@@ -280,7 +280,7 @@ checks:
       - 'Warn: 19 commits out of 24 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:26:49+00:00
+  collectedAt: 2026-09-07T18:59:56+00:00
   platform:
     darwin/arm64:
       name:  null
