@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,645 · **Forks**: 675 · **Open issues**: 3,522 · **Contributors**: 344
+- **Stars**: 7,647 · **Forks**: 675 · **Open issues**: 3,522 · **Contributors**: 344
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 8 | 1 | 1 | 0 | 33 |
-| last60d | 2026-07-15 | 0 | 17 | 1 | 7 | 1 | 73 |
-| 90d | 2026-06-15 | 0 | 23 | 1 | 15 | 2 | 158 |
-| last180d | 2026-03-17 | 0 | 60 | 3 | 20 | 14 | 247 |
-| 360d | 2025-09-18 | 2 | 142 | 10 | 70 | 42 | 585 |
-| last720d | 2024-09-23 | 4 | 320 | 11 | 136 | 98 | 1012 |
+| 30d | 2026-08-15 | 0 | 8 | 1 | 1 | 0 | 33 |
+| last60d | 2026-07-16 | 0 | 17 | 1 | 5 | 1 | 73 |
+| 90d | 2026-06-16 | 0 | 22 | 1 | 15 | 2 | 158 |
+| last180d | 2026-03-18 | 0 | 60 | 3 | 20 | 14 | 247 |
+| 360d | 2025-09-19 | 2 | 142 | 10 | 69 | 42 | 585 |
+| last720d | 2024-09-24 | 4 | 320 | 11 | 136 | 98 | 1012 |
 
 ## Release assets
 
@@ -74,22 +74,6 @@ Lowest-scoring checks:
 | [firejail-0.9.80.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail-0.9.80.tar.xz.asc) | 488 B | `other` |
 | [firejail_0.9.80_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail_0.9.80_1_amd64.deb) | 551.5 KiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **100** distros on [repology.org](https://repology.org/project/firejail). **39** are ✅ on the latest upstream release, **51** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.9.80` | ✅ latest |
-| Debian 13 | `0.9.74` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.80` | ✅ latest |
-| Fedora rawhide | `0.9.80` | ✅ latest |
-| Nix unstable | `0.9.80` | ✅ latest |
-| Void | `0.9.80` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.80` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firejail` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:32:03Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:44:22Z._
