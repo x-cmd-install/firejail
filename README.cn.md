@@ -4,7 +4,7 @@
 
 Linux namespaces and seccomp-bpf sandbox
 
-![firejail](https://repo.x-cmd.io/firejail.svg?lang=zh)
+[![x-cmd/install — firejail Code Quality Monitoring Repo Card](https://repo.x-cmd.io/firejail.svg?lang=zh)](https://x-cmd.com/install/firejail)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install firejail
 
 ## 流行度
 
-- **Star**: 7,647 · **Fork**: 675 · **开放 issue**: 3,523 · **贡献者**: 344
+- **Star**: 7,653 · **Fork**: 674 · **开放 issue**: 3,523 · **贡献者**: 344
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install firejail
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 6 | 0 | 1 | 1 | 36 |
-| last60d | 2026-07-20 | 0 | 17 | 0 | 3 | 2 | 76 |
-| 90d | 2026-06-20 | 0 | 22 | 0 | 15 | 3 | 161 |
-| last180d | 2026-03-22 | 0 | 59 | 2 | 20 | 15 | 250 |
-| 360d | 2025-09-23 | 2 | 139 | 9 | 68 | 42 | 588 |
-| last720d | 2024-09-28 | 4 | 319 | 10 | 136 | 96 | 1012 |
+| 30d | 2026-08-21 | 0 | 4 | 0 | 1 | 1 | 34 |
+| last60d | 2026-07-22 | 0 | 15 | 0 | 3 | 2 | 71 |
+| 90d | 2026-06-22 | 0 | 22 | 0 | 15 | 3 | 154 |
+| last180d | 2026-03-24 | 0 | 59 | 2 | 20 | 15 | 247 |
+| 360d | 2025-09-25 | 2 | 139 | 9 | 67 | 42 | 585 |
+| last720d | 2024-09-30 | 4 | 319 | 10 | 136 | 96 | 1006 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:36:13Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:38:57Z._
