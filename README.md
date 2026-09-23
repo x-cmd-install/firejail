@@ -4,7 +4,7 @@
 
 Linux namespaces and seccomp-bpf sandbox
 
-[![x-cmd/install — firejail Code Quality Monitoring Repo Card](https://repo.x-cmd.io/firejail.svg)](https://x-cmd.com/install/firejail)
+[![x-cmd/install — firejail Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/firejail.svg)](https://x-cmd.com/install/firejail)
 
 ## Install
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,663 · **Forks**: 673 · **Open issues**: 3,523 · **Contributors**: 344
+- **Stars**: 7,664 · **Forks**: 674 · **Open issues**: 3,523 · **Contributors**: 344
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2666 · **Open PRs**: 20 · **Closed issues**: 3020 · **Open issues**: 503 · **Commits**: 11168
+- **Releases**: 16 · **Merged PRs**: 2666 · **Open PRs**: 21 · **Closed issues**: 3020 · **Open issues**: 503 · **Commits**: 11168
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 4 | 0 | 1 | 1 | 37 |
-| last60d | 2026-07-24 | 0 | 15 | 0 | 2 | 1 | 74 |
-| 90d | 2026-06-24 | 0 | 22 | 0 | 15 | 3 | 157 |
-| last180d | 2026-03-26 | 0 | 58 | 2 | 20 | 14 | 250 |
-| 360d | 2025-09-27 | 2 | 139 | 9 | 65 | 42 | 588 |
-| last720d | 2024-10-02 | 4 | 314 | 10 | 136 | 95 | 999 |
+| 30d | 2026-08-24 | 0 | 4 | 1 | 0 | 1 | 37 |
+| last60d | 2026-07-25 | 0 | 15 | 1 | 2 | 1 | 74 |
+| 90d | 2026-06-25 | 0 | 22 | 1 | 15 | 2 | 157 |
+| last180d | 2026-03-27 | 0 | 58 | 3 | 20 | 13 | 250 |
+| 360d | 2025-09-28 | 2 | 139 | 10 | 65 | 42 | 588 |
+| last720d | 2024-10-03 | 4 | 314 | 11 | 136 | 95 | 999 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:47:13Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:50:19Z._
