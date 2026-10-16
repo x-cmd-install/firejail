@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-15 | 0 | 3 | 3 | 8 | 7 | 25 |
-| last60d | 2026-08-16 | 0 | 9 | 3 | 9 | 8 | 62 |
-| 90d | 2026-07-17 | 0 | 20 | 3 | 13 | 9 | 108 |
-| last180d | 2026-04-18 | 0 | 50 | 5 | 25 | 13 | 255 |
-| 360d | 2025-10-20 | 2 | 134 | 12 | 67 | 42 | 602 |
-| last720d | 2024-10-25 | 4 | 314 | 13 | 143 | 101 | 1019 |
+| 30d | 2026-09-16 | 0 | 3 | 3 | 8 | 7 | 25 |
+| last60d | 2026-08-17 | 0 | 9 | 3 | 9 | 8 | 62 |
+| 90d | 2026-07-18 | 0 | 20 | 3 | 12 | 9 | 108 |
+| last180d | 2026-04-19 | 0 | 50 | 5 | 25 | 13 | 255 |
+| 360d | 2025-10-21 | 2 | 134 | 12 | 67 | 41 | 602 |
+| last720d | 2024-10-26 | 4 | 314 | 13 | 143 | 100 | 1017 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261015.yml` · 2026-10-15T05:14:52Z._
+_Snapshot: `data/card/261016.yml` · 2026-10-16T05:09:40Z._
