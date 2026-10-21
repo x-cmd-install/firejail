@@ -30,7 +30,7 @@ Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,704 · **Forks**: 677 · **Open issues**: 3,540 · **Contributors**: 347
+- **Stars**: 7,705 · **Forks**: 677 · **Open issues**: 3,540 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2674 · **Open PRs**: 22 · **Closed issues**: 3033 · **Open issues**: 507 · **Commits**: 11209
+- **Releases**: 16 · **Merged PRs**: 2674 · **Open PRs**: 23 · **Closed issues**: 3033 · **Open issues**: 507 · **Commits**: 11209
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 8 | 2 | 12 | 5 | 38 |
-| last60d | 2026-08-21 | 0 | 12 | 2 | 13 | 6 | 76 |
-| 90d | 2026-07-22 | 0 | 23 | 2 | 15 | 7 | 118 |
-| last180d | 2026-04-23 | 0 | 54 | 4 | 28 | 11 | 253 |
-| 360d | 2025-10-25 | 2 | 139 | 11 | 70 | 38 | 616 |
-| last720d | 2024-10-30 | 4 | 316 | 12 | 146 | 98 | 1033 |
+| 30d | 2026-09-21 | 0 | 8 | 3 | 12 | 5 | 38 |
+| last60d | 2026-08-22 | 0 | 12 | 3 | 13 | 6 | 76 |
+| 90d | 2026-07-23 | 0 | 23 | 3 | 15 | 7 | 118 |
+| last180d | 2026-04-24 | 0 | 52 | 5 | 28 | 11 | 253 |
+| 360d | 2025-10-26 | 2 | 139 | 12 | 69 | 38 | 616 |
+| last720d | 2024-10-31 | 4 | 316 | 13 | 146 | 98 | 1032 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:36:59Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:16:40Z._

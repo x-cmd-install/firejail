@@ -30,7 +30,7 @@ x install firejail
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/27 approved changesets -- score normalized to 0
+- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ x install firejail
 
 ## 流行度
 
-- **Star**: 7,704 · **Fork**: 677 · **开放 issue**: 3,540 · **贡献者**: 347
+- **Star**: 7,705 · **Fork**: 677 · **开放 issue**: 3,540 · **贡献者**: 347
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 2674 · **开放 PR**: 22 · **已关闭 issue**: 3033 · **开放 issue**: 507 · **提交数**: 11209
+- **发布数**: 16 · **已合并 PR**: 2674 · **开放 PR**: 23 · **已关闭 issue**: 3033 · **开放 issue**: 507 · **提交数**: 11209
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 8 | 2 | 12 | 5 | 38 |
-| last60d | 2026-08-21 | 0 | 12 | 2 | 13 | 6 | 76 |
-| 90d | 2026-07-22 | 0 | 23 | 2 | 15 | 7 | 118 |
-| last180d | 2026-04-23 | 0 | 54 | 4 | 28 | 11 | 253 |
-| 360d | 2025-10-25 | 2 | 139 | 11 | 70 | 38 | 616 |
-| last720d | 2024-10-30 | 4 | 316 | 12 | 146 | 98 | 1033 |
+| 30d | 2026-09-21 | 0 | 8 | 3 | 12 | 5 | 38 |
+| last60d | 2026-08-22 | 0 | 12 | 3 | 13 | 6 | 76 |
+| 90d | 2026-07-23 | 0 | 23 | 3 | 15 | 7 | 118 |
+| last180d | 2026-04-24 | 0 | 52 | 5 | 28 | 11 | 253 |
+| 360d | 2025-10-26 | 2 | 139 | 12 | 69 | 38 | 616 |
+| last720d | 2024-10-31 | 4 | 316 | 13 | 146 | 98 | 1032 |
 
 ## Release 资产
 
@@ -83,4 +83,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:37:00Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:16:41Z._
