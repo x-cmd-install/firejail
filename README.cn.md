@@ -48,22 +48,22 @@ x install firejail
 
 ## 流行度
 
-- **Star**: 7,709 · **Fork**: 677 · **开放 issue**: 3,540 · **贡献者**: 347
+- **Star**: 7,709 · **Fork**: 678 · **开放 issue**: 3,540 · **贡献者**: 347
 
 ## 累计统计
 
-- **发布数**: 16 · **已合并 PR**: 2674 · **开放 PR**: 23 · **已关闭 issue**: 3033 · **开放 issue**: 507 · **提交数**: 11209
+- **发布数**: 16 · **已合并 PR**: 2674 · **开放 PR**: 24 · **已关闭 issue**: 3033 · **开放 issue**: 507 · **提交数**: 11209
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 7 | 3 | 12 | 5 | 38 |
-| last60d | 2026-08-23 | 0 | 12 | 3 | 13 | 6 | 76 |
-| 90d | 2026-07-24 | 0 | 23 | 3 | 14 | 6 | 118 |
-| last180d | 2026-04-25 | 0 | 51 | 5 | 28 | 11 | 253 |
-| 360d | 2025-10-27 | 2 | 136 | 12 | 69 | 38 | 616 |
-| last720d | 2024-11-01 | 4 | 314 | 13 | 146 | 98 | 1031 |
+| 30d | 2026-09-23 | 0 | 7 | 4 | 11 | 5 | 38 |
+| last60d | 2026-08-24 | 0 | 12 | 4 | 12 | 6 | 76 |
+| 90d | 2026-07-25 | 0 | 23 | 4 | 14 | 6 | 118 |
+| last180d | 2026-04-26 | 0 | 50 | 6 | 28 | 11 | 253 |
+| 360d | 2025-10-28 | 2 | 136 | 13 | 69 | 38 | 616 |
+| last720d | 2024-11-02 | 4 | 314 | 14 | 146 | 98 | 1029 |
 
 ## Release 资产
 
@@ -74,6 +74,22 @@ x install firejail
 | [firejail-0.9.80.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail-0.9.80.tar.xz.asc) | 488 B | `other` |
 | [firejail_0.9.80_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail_0.9.80_1_amd64.deb) | 551.5 KiB | `runtime/deb/amd64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/firejail) 上共有 **99** 个发行版报告此项目。**46** 个 ✅ 已是最新上游版本，**43** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Debian unstable | `0.9.80` | ✅ latest |
+| Debian 13 | `0.9.74` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
+| Arch | `0.9.80` | ✅ latest |
+| Fedora rawhide | `0.9.80` | ✅ latest |
+| Nix unstable | `0.9.80` | ✅ latest |
+| Void | `0.9.80` | ✅ latest |
+| openSUSE Tumbleweed | `0.9.80` | ✅ latest |
+
 ## 改进这些数据
 
 firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `firejail` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -83,4 +99,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261022.yml` · 2026-10-22T05:20:58Z._
+_数据快照: `data/card/261023.yml` · 2026-10-23T05:26:39Z._
