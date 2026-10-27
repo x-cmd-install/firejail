@@ -1,3 +1,114 @@
+- repo: pureos_amber
+  subrepo: amber/main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.58.2
+  origversion: 0.9.58.2-2+deb10u3
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - utils
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial/universe
+  srcname: firejail
+  binnames:
+    - firejail
+  visiblename: firejail
+  version: 0.9.38
+  origversion: 0.9.38-1
+  status: legacy
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: deepin_unstable
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.58.2
+  origversion: 0.9.58.2-2
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  vulnerable: true
+- repo: gobolinux
+  srcname: FireJail
+  visiblename: FireJail
+  version: git
+  origversion: null
+  status: outdated
+  summary: Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
+  licenses:
+    - GNU General Public License v2.0
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/universe
+  srcname: firejail
+  binnames:
+    - firejail
+  visiblename: firejail
+  version: 0.9.38.10
+  origversion: 0.9.38.10-0ubuntu0.16.04.1
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_18_04
+  subrepo: bionic/universe
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.52
+  origversion: 0.9.52-2
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal-updates/universe
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.62
+  origversion: 0.9.62-3ubuntu0.1
+  status: outdated
+  maintainers:
+    - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.62
+  origversion: 0.9.62-3
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - universe/misc
+  vulnerable: true
 - repo: raspbian_oldstable
   subrepo: main
   srcname: firejail
@@ -185,7 +296,7 @@
   licenses:
     - GPL-2
 - repo: debian_11
-  subrepo: bullseye-security/main
+  subrepo: bullseye/main
   srcname: firejail
   binnames:
     - firejail
@@ -199,7 +310,7 @@
   categories:
     - misc
 - repo: debian_11
-  subrepo: bullseye/main
+  subrepo: bullseye-security/main
   srcname: firejail
   binnames:
     - firejail
@@ -236,20 +347,6 @@
   version: 0.9.74
   origversion: 0.9.74-1
   status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: debian_unstable
-  subrepo: sid/main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-1
-  status: newest
   maintainers:
     - reiner@reiner-h.de
   categories:
@@ -455,20 +552,17 @@
     - GPL-2.0-or-later
   categories:
     - Unspecified
-- repo: fedora_43
-  subrepo: release
+- repo: nix_stable_24_05
   srcname: firejail
-  binnames:
-    - firejail
   visiblename: firejail
-  version: 0.9.76
-  origversion: 0.9.76-1.fc43
-  status: legacy
-  summary: Linux namespaces sandbox program
+  version: 0.9.72
+  origversion: null
+  status: outdated
+  summary: Namespace-based sandboxing tool for Linux
+  maintainers:
+    - 7c6f434c@mail.ru
   licenses:
     - GPL-2.0-or-later
-  categories:
-    - Unspecified
 - repo: fedora_43
   subrepo: updates
   srcname: firejail
@@ -478,6 +572,20 @@
   version: 0.9.80
   origversion: 0.9.80-1.fc43
   status: newest
+  summary: Linux namespaces sandbox program
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_43
+  subrepo: release
+  srcname: firejail
+  binnames:
+    - firejail
+  visiblename: firejail
+  version: 0.9.76
+  origversion: 0.9.76-1.fc43
+  status: legacy
   summary: Linux namespaces sandbox program
   licenses:
     - GPL-2.0-or-later
@@ -733,17 +841,6 @@
     - stevep@mxlinux.org
   categories:
     - utils
-- repo: nix_stable_24_05
-  srcname: firejail
-  visiblename: firejail
-  version: 0.9.72
-  origversion: null
-  status: outdated
-  summary: Namespace-based sandboxing tool for Linux
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0-or-later
 - repo: nix_stable_24_11
   srcname: firejail
   visiblename: firejail
@@ -1223,114 +1320,3 @@
   summary: Sandbox
   licenses:
     - GNU General Public License, version 2.0
-- repo: deepin_unstable
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.58.2
-  origversion: 0.9.58.2-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  vulnerable: true
-- repo: gobolinux
-  srcname: FireJail
-  visiblename: FireJail
-  version: git
-  origversion: null
-  status: outdated
-  summary: Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
-  licenses:
-    - GNU General Public License v2.0
-  vulnerable: true
-- repo: pureos_amber
-  subrepo: amber/main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.58.2
-  origversion: 0.9.58.2-2+deb10u3
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - utils
-  vulnerable: true
-- repo: ubuntu_16_04
-  subrepo: xenial/universe
-  srcname: firejail
-  binnames:
-    - firejail
-  visiblename: firejail
-  version: 0.9.38
-  origversion: 0.9.38-1
-  status: legacy
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_16_04
-  subrepo: xenial-updates/universe
-  srcname: firejail
-  binnames:
-    - firejail
-  visiblename: firejail
-  version: 0.9.38.10
-  origversion: 0.9.38.10-0ubuntu0.16.04.1
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_18_04
-  subrepo: bionic/universe
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.52
-  origversion: 0.9.52-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_20_04
-  subrepo: focal/universe
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.62
-  origversion: 0.9.62-3
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_20_04
-  subrepo: focal-updates/universe
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.62
-  origversion: 0.9.62-3ubuntu0.1
-  status: outdated
-  maintainers:
-    - ubuntu-devel-discuss@lists.ubuntu.com
-  categories:
-    - universe/misc
-  vulnerable: true
