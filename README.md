@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,725 · **Forks**: 676 · **Open issues**: 3,541 · **Contributors**: 348
+- **Stars**: 7,727 · **Forks**: 676 · **Open issues**: 3,542 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2681 · **Open PRs**: 20 · **Closed issues**: 3037 · **Open issues**: 504 · **Commits**: 11224
+- **Releases**: 16 · **Merged PRs**: 2681 · **Open PRs**: 20 · **Closed issues**: 3037 · **Open issues**: 505 · **Commits**: 11224
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 0 | 13 | 2 | 13 | 1 | 50 |
-| last60d | 2026-08-30 | 0 | 16 | 2 | 14 | 5 | 83 |
-| 90d | 2026-07-31 | 0 | 28 | 2 | 15 | 5 | 104 |
-| last180d | 2026-05-02 | 0 | 52 | 2 | 30 | 10 | 253 |
-| 360d | 2025-11-03 | 2 | 139 | 10 | 70 | 36 | 623 |
-| last720d | 2024-11-08 | 4 | 317 | 11 | 149 | 95 | 1041 |
+| 30d | 2026-09-30 | 0 | 13 | 2 | 13 | 2 | 50 |
+| last60d | 2026-08-31 | 0 | 16 | 2 | 14 | 6 | 83 |
+| 90d | 2026-08-01 | 0 | 25 | 2 | 15 | 6 | 104 |
+| last180d | 2026-05-03 | 0 | 52 | 2 | 30 | 11 | 253 |
+| 360d | 2025-11-04 | 2 | 139 | 10 | 70 | 37 | 623 |
+| last720d | 2024-11-09 | 4 | 317 | 11 | 148 | 96 | 1035 |
 
 ## Release assets
 
@@ -76,11 +76,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **100** distros on [repology.org](https://repology.org/project/firejail). **47** are ✅ on the latest upstream release, **43** are ⚠️ on an older version.
+Reported by **101** distros on [repology.org](https://repology.org/project/firejail). **48** are ✅ on the latest upstream release, **43** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Debian unstable | `0.9.80` | ✅ latest |
+| Debian 14 | `0.9.80` | ✅ latest |
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
@@ -99,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:30:49Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:23:05Z._
