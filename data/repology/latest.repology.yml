@@ -1,13 +1,3 @@
-- repo: slackbuilds
-  srcname: system/firejail
-  visiblename: system/firejail
-  version: 0.9.80
-  origversion: null
-  status: newest
-  maintainers:
-    - willysr@slackbuilds.org
-  categories:
-    - system
 - repo: nix_stable_24_05
   srcname: firejail
   visiblename: firejail
@@ -41,6 +31,31 @@
     - 7c6f434c@mail.ru
   licenses:
     - GPL-2.0-or-later
+- repo: nix_stable_25_11
+  srcname: firejail
+  visiblename: firejail
+  version: 0.9.76
+  origversion: null
+  status: outdated
+  summary: Namespace-based sandboxing tool for Linux
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0-or-later
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.72
+  origversion: 0.9.72-2
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
 - repo: alt_p11
   srcname: firejail
   binnames:
@@ -208,6 +223,20 @@
   visiblename: firejail
   version: 0.9.64.4
   origversion: 0.9.64.4-2+deb11u1
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.74
+  origversion: 0.9.74-1
   status: outdated
   maintainers:
     - reiner@reiner-h.de
@@ -734,17 +763,20 @@
     - stevep@mxlinux.org
   categories:
     - utils
-- repo: nix_stable_25_11
+- repo: raspbian_testing
+  subrepo: main
   srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
   visiblename: firejail
-  version: 0.9.76
-  origversion: null
-  status: outdated
-  summary: Namespace-based sandboxing tool for Linux
+  version: 0.9.80
+  origversion: 0.9.80-2
+  status: newest
   maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0-or-later
+    - reiner@reiner-h.de
+  categories:
+    - misc
 - repo: nix_stable_26_05
   srcname: firejail
   visiblename: firejail
@@ -969,48 +1001,6 @@
     - reiner@reiner-h.de
   categories:
     - utils
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.72
-  origversion: 0.9.72-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: raspbian_stable
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.74
-  origversion: 0.9.74-1
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-1
-  status: newest
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: firejail
@@ -1047,6 +1037,16 @@
     - GPLv2+
   categories:
     - Development/Tools
+- repo: slackbuilds
+  srcname: system/firejail
+  visiblename: system/firejail
+  version: 0.9.80
+  origversion: null
+  status: newest
+  maintainers:
+    - willysr@slackbuilds.org
+  categories:
+    - system
 - repo: solus
   srcname: firejail
   binname: firejail
