@@ -42,54 +42,54 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.9.80` (2026-03-14)
-- **Last commit**: 2026-11-02
+- **Latest**: `0.9.82` (2026-11-02)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,727 · **Forks**: 677 · **Open issues**: 3,541 · **Contributors**: 348
+- **Stars**: 7,727 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 16 · **Merged PRs**: 2688 · **Open PRs**: 17 · **Closed issues**: 3036 · **Open issues**: 505 · **Commits**: 11247
+- **Releases**: 17 · **Merged PRs**: 2688 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11253
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 17 | 0 | 12 | 2 | 50 |
-| last60d | 2026-09-03 | 0 | 20 | 0 | 14 | 6 | 93 |
-| 90d | 2026-08-04 | 0 | 30 | 0 | 15 | 6 | 122 |
-| last180d | 2026-05-06 | 0 | 56 | 0 | 30 | 11 | 264 |
-| 360d | 2025-11-07 | 2 | 146 | 7 | 70 | 37 | 640 |
-| last720d | 2024-11-12 | 4 | 322 | 8 | 147 | 96 | 1058 |
+| 30d | 2026-10-04 | 1 | 17 | 1 | 14 | 3 | 56 |
+| last60d | 2026-09-04 | 1 | 20 | 1 | 16 | 7 | 99 |
+| 90d | 2026-08-05 | 1 | 29 | 1 | 17 | 7 | 128 |
+| last180d | 2026-05-07 | 1 | 56 | 1 | 32 | 12 | 270 |
+| 360d | 2025-11-08 | 3 | 146 | 8 | 72 | 38 | 646 |
+| last720d | 2024-11-13 | 5 | 322 | 9 | 149 | 97 | 1064 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [firejail-0.9.80.asc](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail-0.9.80.asc) | 724 B | `other` |
-| [firejail-0.9.80.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail-0.9.80.tar.xz) | 536.0 KiB | `other` |
-| [firejail-0.9.80.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail-0.9.80.tar.xz.asc) | 488 B | `other` |
-| [firejail_0.9.80_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.80/firejail_0.9.80_1_amd64.deb) | 551.5 KiB | `runtime/deb/amd64` |
+| [firejail-0.9.82.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.asc) | 724 B | `other` |
+| [firejail-0.9.82.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz) | 931.4 KiB | `other` |
+| [firejail-0.9.82.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz.asc) | 488 B | `other` |
+| [firejail_0.9.82_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail_0.9.82_1_amd64.deb) | 527.2 KiB | `runtime/deb/amd64` |
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **47** are ✅ on the latest upstream release, **45** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **5** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.9.80` | ✅ latest |
-| Debian 14 | `0.9.80` | ✅ latest |
+| Debian unstable | `0.9.80` | ⚠️ outdated |
+| Debian 14 | `0.9.80` | ⚠️ outdated |
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.80` | ✅ latest |
-| Fedora rawhide | `0.9.80` | ✅ latest |
-| Nix unstable | `0.9.80` | ✅ latest |
-| Void | `0.9.80` | ✅ latest |
-| openSUSE Tumbleweed | `0.9.80` | ✅ latest |
+| Arch | `0.9.82` | ✅ latest |
+| Fedora rawhide | `0.9.80` | ⚠️ outdated |
+| Nix unstable | `0.9.80` | ⚠️ outdated |
+| Void | `0.9.80` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.80` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T06:50:15Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T07:33:12Z._
