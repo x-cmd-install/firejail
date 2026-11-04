@@ -42,41 +42,41 @@ x install firejail
 
 ## 发布
 
-- **最新版本**: `0.9.82` (2026-11-02)
-- **最近提交**: 2026-11-03
+- **最新版本**: `0.9.82.2` (2026-11-03)
+- **最近提交**: 2026-11-04
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 7,727 · **Fork**: 677 · **开放 issue**: 3,544 · **贡献者**: 348
+- **Star**: 7,726 · **Fork**: 677 · **开放 issue**: 3,544 · **贡献者**: 348
 
 ## 累计统计
 
-- **发布数**: 17 · **已合并 PR**: 2688 · **开放 PR**: 18 · **已关闭 issue**: 3038 · **开放 issue**: 506 · **提交数**: 11253
+- **发布数**: 18 · **已合并 PR**: 2688 · **开放 PR**: 19 · **已关闭 issue**: 3038 · **开放 issue**: 506 · **提交数**: 11260
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 17 | 1 | 14 | 3 | 56 |
-| last60d | 2026-09-04 | 1 | 20 | 1 | 16 | 7 | 99 |
-| 90d | 2026-08-05 | 1 | 29 | 1 | 17 | 7 | 128 |
-| last180d | 2026-05-07 | 1 | 56 | 1 | 32 | 12 | 270 |
-| 360d | 2025-11-08 | 3 | 146 | 8 | 72 | 38 | 646 |
-| last720d | 2024-11-13 | 5 | 322 | 9 | 149 | 97 | 1064 |
+| 30d | 2026-10-05 | 2 | 17 | 2 | 13 | 3 | 63 |
+| last60d | 2026-09-05 | 2 | 20 | 2 | 16 | 7 | 106 |
+| 90d | 2026-08-06 | 2 | 29 | 2 | 17 | 7 | 135 |
+| last180d | 2026-05-08 | 2 | 56 | 2 | 32 | 12 | 277 |
+| 360d | 2025-11-09 | 4 | 146 | 9 | 72 | 38 | 653 |
+| last720d | 2024-11-14 | 6 | 322 | 10 | 149 | 97 | 1071 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [firejail-0.9.82.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.asc) | 724 B | `other` |
-| [firejail-0.9.82.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz) | 931.4 KiB | `other` |
-| [firejail-0.9.82.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz.asc) | 488 B | `other` |
-| [firejail_0.9.82_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail_0.9.82_1_amd64.deb) | 527.2 KiB | `runtime/deb/amd64` |
+| [firejail-0.9.82.2.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.asc) | 728 B | `other` |
+| [firejail-0.9.82.2.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz) | 931.0 KiB | `other` |
+| [firejail-0.9.82.2.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz.asc) | 488 B | `other` |
+| [firejail_0.9.82.2_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail_0.9.82.2_1_amd64.deb) | 528.4 KiB | `runtime/deb/amd64` |
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/firejail) 上共有 **102** 个发行版报告此项目。**5** 个 ✅ 已是最新上游版本，**87** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/firejail) 上共有 **102** 个发行版报告此项目。**6** 个 ✅ 已是最新上游版本，**86** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
@@ -85,8 +85,8 @@ x install firejail
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.82` | ✅ latest |
-| Fedora rawhide | `0.9.80` | ⚠️ outdated |
+| Arch | `0.9.82.2` | ✅ latest |
+| Fedora rawhide | `0.9.82` | ⚠️ outdated |
 | Nix unstable | `0.9.80` | ⚠️ outdated |
 | Void | `0.9.80` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.80` | ⚠️ outdated |
@@ -100,4 +100,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T07:33:13Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:07:39Z._

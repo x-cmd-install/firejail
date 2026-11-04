@@ -42,41 +42,41 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `0.9.82` (2026-11-02)
-- **Last commit**: 2026-11-03
+- **Latest**: `0.9.82.2` (2026-11-03)
+- **Last commit**: 2026-11-04
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,727 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
+- **Stars**: 7,726 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 2688 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11253
+- **Releases**: 18 · **Merged PRs**: 2688 · **Open PRs**: 19 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11260
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 17 | 1 | 14 | 3 | 56 |
-| last60d | 2026-09-04 | 1 | 20 | 1 | 16 | 7 | 99 |
-| 90d | 2026-08-05 | 1 | 29 | 1 | 17 | 7 | 128 |
-| last180d | 2026-05-07 | 1 | 56 | 1 | 32 | 12 | 270 |
-| 360d | 2025-11-08 | 3 | 146 | 8 | 72 | 38 | 646 |
-| last720d | 2024-11-13 | 5 | 322 | 9 | 149 | 97 | 1064 |
+| 30d | 2026-10-05 | 2 | 17 | 2 | 13 | 3 | 63 |
+| last60d | 2026-09-05 | 2 | 20 | 2 | 16 | 7 | 106 |
+| 90d | 2026-08-06 | 2 | 29 | 2 | 17 | 7 | 135 |
+| last180d | 2026-05-08 | 2 | 56 | 2 | 32 | 12 | 277 |
+| 360d | 2025-11-09 | 4 | 146 | 9 | 72 | 38 | 653 |
+| last720d | 2024-11-14 | 6 | 322 | 10 | 149 | 97 | 1071 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [firejail-0.9.82.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.asc) | 724 B | `other` |
-| [firejail-0.9.82.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz) | 931.4 KiB | `other` |
-| [firejail-0.9.82.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail-0.9.82.tar.xz.asc) | 488 B | `other` |
-| [firejail_0.9.82_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82/firejail_0.9.82_1_amd64.deb) | 527.2 KiB | `runtime/deb/amd64` |
+| [firejail-0.9.82.2.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.asc) | 728 B | `other` |
+| [firejail-0.9.82.2.tar.xz](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz) | 931.0 KiB | `other` |
+| [firejail-0.9.82.2.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz.asc) | 488 B | `other` |
+| [firejail_0.9.82.2_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail_0.9.82.2_1_amd64.deb) | 528.4 KiB | `runtime/deb/amd64` |
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **5** are ✅ on the latest upstream release, **87** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **6** are ✅ on the latest upstream release, **86** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -85,8 +85,8 @@ Reported by **102** distros on [repology.org](https://repology.org/project/firej
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.82` | ✅ latest |
-| Fedora rawhide | `0.9.80` | ⚠️ outdated |
+| Arch | `0.9.82.2` | ✅ latest |
+| Fedora rawhide | `0.9.82` | ⚠️ outdated |
 | Nix unstable | `0.9.80` | ⚠️ outdated |
 | Void | `0.9.80` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.80` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T07:33:12Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:07:38Z._
