@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 728,
       "digest": "sha256:e595c4a2398c044aee4a0ee4a0038a3c61f54f4cfa82021543b82736b02668fd",
-      "download_count": 5,
+      "download_count": 9,
       "created_at": "2026-11-03T13:04:45Z",
       "updated_at": "2026-11-03T13:04:45Z",
       "browser_download_url": "https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.asc"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 953320,
       "digest": "sha256:fd38ae9184e2700917ea5b352a47780f34971be6c6221a1677e7ddcd1462ad4d",
-      "download_count": 22,
+      "download_count": 29,
       "created_at": "2026-11-03T13:04:45Z",
       "updated_at": "2026-11-03T13:04:46Z",
       "browser_download_url": "https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 488,
       "digest": "sha256:6e6c6a1fac498941f7656903bcb73e092649db6efc141fe8f2348cf50d95e873",
-      "download_count": 8,
+      "download_count": 12,
       "created_at": "2026-11-03T13:04:46Z",
       "updated_at": "2026-11-03T13:04:46Z",
       "browser_download_url": "https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz.asc"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 541040,
       "digest": "sha256:8b411fb976682df5e02dc25f7ebc9a400bec6ae80203a9f875068a4d5814c9a4",
-      "download_count": 17,
+      "download_count": 46,
       "created_at": "2026-11-03T13:04:46Z",
       "updated_at": "2026-11-03T13:04:46Z",
       "browser_download_url": "https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail_0.9.82.2_1_amd64.deb"
