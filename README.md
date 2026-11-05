@@ -14,13 +14,13 @@ x install firejail
 
 ## Code insight
 
-Total: **57,694** lines of code across **282** files in the top 5 languages.
+Total: **57,698** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,615 | 5,632 | 4,963 | 137 |
+| C | 32,615 | 5,633 | 4,963 | 137 |
 | CHeader | 14,122 | 723 | 340 | 56 |
-| Autoconf | 5,327 | 184 | 713 | 13 |
+| Autoconf | 5,331 | 184 | 713 | 13 |
 | Bitbake | 2,576 | 265 | 144 | 32 |
 | Sh | 1,618 | 316 | 429 | 44 |
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,726 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
+- **Stars**: 7,727 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2688 · **Open PRs**: 19 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11260
+- **Releases**: 18 · **Merged PRs**: 2689 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 17 | 2 | 13 | 3 | 63 |
-| last60d | 2026-09-05 | 2 | 20 | 2 | 16 | 7 | 106 |
-| 90d | 2026-08-06 | 2 | 29 | 2 | 17 | 7 | 135 |
-| last180d | 2026-05-08 | 2 | 56 | 2 | 32 | 12 | 277 |
-| 360d | 2025-11-09 | 4 | 146 | 9 | 72 | 38 | 653 |
-| last720d | 2024-11-14 | 6 | 322 | 10 | 149 | 97 | 1071 |
+| 30d | 2026-10-06 | 2 | 18 | 1 | 13 | 3 | 64 |
+| last60d | 2026-09-06 | 2 | 21 | 1 | 16 | 7 | 107 |
+| 90d | 2026-08-07 | 2 | 30 | 1 | 17 | 7 | 136 |
+| last180d | 2026-05-09 | 2 | 55 | 1 | 32 | 12 | 278 |
+| 360d | 2025-11-10 | 4 | 145 | 8 | 72 | 38 | 654 |
+| last720d | 2024-11-15 | 6 | 323 | 9 | 149 | 97 | 1072 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **6** are ✅ on the latest upstream release, **86** are ⚠️ on an older version.
+Reported by **102** distros on [repology.org](https://repology.org/project/firejail). **9** are ✅ on the latest upstream release, **83** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -86,7 +86,7 @@ Reported by **102** distros on [repology.org](https://repology.org/project/firej
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
 | Arch | `0.9.82.2` | ✅ latest |
-| Fedora rawhide | `0.9.82` | ⚠️ outdated |
+| Fedora rawhide | `0.9.82.2` | ✅ latest |
 | Nix unstable | `0.9.80` | ⚠️ outdated |
 | Void | `0.9.80` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.80` | ⚠️ outdated |
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:07:38Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:20:54Z._
