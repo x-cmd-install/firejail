@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,727 · **Forks**: 677 · **Open issues**: 3,544 · **Contributors**: 348
+- **Stars**: 7,727 · **Forks**: 675 · **Open issues**: 3,545 · **Contributors**: 348
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2689 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 506 · **Commits**: 11261
+- **Releases**: 18 · **Merged PRs**: 2689 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 507 · **Commits**: 11261
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 18 | 1 | 13 | 3 | 64 |
-| last60d | 2026-09-06 | 2 | 21 | 1 | 16 | 7 | 107 |
-| 90d | 2026-08-07 | 2 | 30 | 1 | 17 | 7 | 136 |
-| last180d | 2026-05-09 | 2 | 55 | 1 | 32 | 12 | 278 |
-| 360d | 2025-11-10 | 4 | 145 | 8 | 72 | 38 | 654 |
-| last720d | 2024-11-15 | 6 | 323 | 9 | 149 | 97 | 1072 |
+| 30d | 2026-10-07 | 2 | 18 | 1 | 13 | 4 | 64 |
+| last60d | 2026-09-07 | 2 | 21 | 1 | 16 | 8 | 107 |
+| 90d | 2026-08-08 | 2 | 30 | 1 | 17 | 8 | 136 |
+| last180d | 2026-05-10 | 2 | 55 | 1 | 32 | 13 | 278 |
+| 360d | 2025-11-11 | 4 | 144 | 8 | 72 | 39 | 654 |
+| last720d | 2024-11-16 | 6 | 323 | 9 | 149 | 98 | 1072 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:20:54Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:20:11Z._
