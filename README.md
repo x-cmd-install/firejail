@@ -26,11 +26,11 @@ Total: **57,699** lines of code across **282** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.5 / 10**
+Overall score: **6.4 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (2/10) — Found 6/30 approved changesets -- score normalized to 2
+- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,733 · **Forks**: 675 · **Open issues**: 3,546 · **Contributors**: 347
+- **Stars**: 7,734 · **Forks**: 677 · **Open issues**: 3,546 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2691 · **Open PRs**: 18 · **Closed issues**: 3038 · **Open issues**: 508 · **Commits**: 11265
+- **Releases**: 18 · **Merged PRs**: 2691 · **Open PRs**: 20 · **Closed issues**: 3038 · **Open issues**: 508 · **Commits**: 11268
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 2 | 19 | 1 | 7 | 5 | 61 |
-| last60d | 2026-09-10 | 2 | 23 | 1 | 16 | 9 | 96 |
-| 90d | 2026-08-11 | 2 | 31 | 1 | 17 | 9 | 132 |
-| last180d | 2026-05-13 | 2 | 54 | 1 | 32 | 14 | 271 |
-| 360d | 2025-11-14 | 4 | 143 | 8 | 70 | 40 | 652 |
-| last720d | 2024-11-19 | 6 | 324 | 9 | 148 | 99 | 1066 |
+| 30d | 2026-10-11 | 2 | 19 | 3 | 7 | 5 | 64 |
+| last60d | 2026-09-11 | 2 | 23 | 3 | 16 | 9 | 99 |
+| 90d | 2026-08-12 | 2 | 31 | 3 | 17 | 9 | 135 |
+| last180d | 2026-05-14 | 2 | 53 | 3 | 32 | 14 | 274 |
+| 360d | 2025-11-15 | 4 | 143 | 10 | 70 | 40 | 655 |
+| last720d | 2024-11-20 | 6 | 324 | 11 | 148 | 99 | 1059 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:19:46Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T08:01:34Z._
