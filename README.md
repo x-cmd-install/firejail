@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,736 · **Forks**: 677 · **Open issues**: 3,546 · **Contributors**: 346
+- **Stars**: 7,737 · **Forks**: 676 · **Open issues**: 3,546 · **Contributors**: 346
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 2 | 20 | 6 | 7 | 5 | 65 |
-| last60d | 2026-09-13 | 2 | 24 | 6 | 16 | 9 | 100 |
-| 90d | 2026-08-14 | 2 | 32 | 6 | 17 | 9 | 136 |
-| last180d | 2026-05-16 | 2 | 53 | 6 | 32 | 13 | 275 |
-| 360d | 2025-11-17 | 4 | 144 | 13 | 70 | 40 | 656 |
-| last720d | 2024-11-22 | 6 | 325 | 14 | 148 | 99 | 1060 |
+| 30d | 2026-10-14 | 2 | 18 | 6 | 4 | 5 | 65 |
+| last60d | 2026-09-14 | 2 | 24 | 6 | 16 | 9 | 100 |
+| 90d | 2026-08-15 | 2 | 32 | 6 | 17 | 9 | 136 |
+| last180d | 2026-05-17 | 2 | 52 | 6 | 32 | 13 | 275 |
+| 360d | 2025-11-18 | 4 | 144 | 13 | 70 | 40 | 656 |
+| last720d | 2024-11-23 | 6 | 325 | 14 | 147 | 99 | 1060 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/firejail). **18** are ✅ on the latest upstream release, **75** are ⚠️ on an older version.
+Reported by **104** distros on [repology.org](https://repology.org/project/firejail). **19** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:21:16Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T07:35:20Z._
