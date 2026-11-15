@@ -14,13 +14,13 @@ x install firejail
 
 ## Code insight
 
-Total: **57,741** lines of code across **282** files in the top 5 languages.
+Total: **57,793** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,651 | 5,634 | 4,965 | 137 |
+| C | 32,676 | 5,635 | 4,966 | 137 |
 | CHeader | 14,122 | 723 | 340 | 56 |
-| Autoconf | 5,337 | 186 | 713 | 13 |
+| Autoconf | 5,364 | 186 | 715 | 13 |
 | Bitbake | 2,577 | 263 | 144 | 32 |
 | Sh | 1,618 | 316 | 429 | 44 |
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.9.82.2` (2026-11-03)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-14
 - **Assets in release**: 4
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2692 · **Open PRs**: 23 · **Closed issues**: 3038 · **Open issues**: 508 · **Commits**: 11269
+- **Releases**: 18 · **Merged PRs**: 2693 · **Open PRs**: 22 · **Closed issues**: 3038 · **Open issues**: 508 · **Commits**: 11270
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 2 | 18 | 6 | 4 | 5 | 65 |
-| last60d | 2026-09-15 | 2 | 24 | 6 | 16 | 8 | 100 |
-| 90d | 2026-08-16 | 2 | 30 | 6 | 17 | 9 | 136 |
-| last180d | 2026-05-18 | 2 | 52 | 6 | 32 | 13 | 275 |
-| 360d | 2025-11-19 | 4 | 144 | 13 | 70 | 40 | 656 |
-| last720d | 2024-11-24 | 6 | 323 | 14 | 147 | 99 | 1060 |
+| 30d | 2026-10-16 | 2 | 18 | 5 | 2 | 5 | 52 |
+| last60d | 2026-09-16 | 2 | 25 | 5 | 16 | 8 | 94 |
+| 90d | 2026-08-17 | 2 | 31 | 5 | 17 | 9 | 132 |
+| last180d | 2026-05-19 | 2 | 53 | 5 | 32 | 12 | 273 |
+| 360d | 2025-11-20 | 4 | 145 | 12 | 70 | 39 | 651 |
+| last720d | 2024-11-25 | 6 | 323 | 13 | 146 | 99 | 1060 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T07:43:23Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:20:54Z._
