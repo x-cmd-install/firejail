@@ -14,13 +14,13 @@ x install firejail
 
 ## Code insight
 
-Total: **57,793** lines of code across **282** files in the top 5 languages.
+Total: **57,804** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,676 | 5,635 | 4,966 | 137 |
-| CHeader | 14,122 | 723 | 340 | 56 |
-| Autoconf | 5,364 | 186 | 715 | 13 |
+| C | 32,685 | 5,636 | 4,967 | 137 |
+| CHeader | 14,124 | 723 | 340 | 56 |
+| Autoconf | 5,364 | 186 | 714 | 13 |
 | Bitbake | 2,577 | 263 | 144 | 32 |
 | Sh | 1,618 | 316 | 429 | 44 |
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.9.82.2` (2026-11-03)
-- **Last commit**: 2026-11-14
+- **Last commit**: 2026-11-15
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,737 · **Forks**: 677 · **Open issues**: 3,546 · **Contributors**: 346
+- **Stars**: 7,738 · **Forks**: 677 · **Open issues**: 3,548 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2693 · **Open PRs**: 22 · **Closed issues**: 3038 · **Open issues**: 508 · **Commits**: 11270
+- **Releases**: 18 · **Merged PRs**: 2695 · **Open PRs**: 20 · **Closed issues**: 3038 · **Open issues**: 510 · **Commits**: 11274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 18 | 5 | 2 | 5 | 52 |
-| last60d | 2026-09-16 | 2 | 25 | 5 | 16 | 8 | 94 |
-| 90d | 2026-08-17 | 2 | 31 | 5 | 17 | 9 | 132 |
-| last180d | 2026-05-19 | 2 | 53 | 5 | 32 | 12 | 273 |
-| 360d | 2025-11-20 | 4 | 145 | 12 | 70 | 39 | 651 |
-| last720d | 2024-11-25 | 6 | 323 | 13 | 146 | 99 | 1060 |
+| 30d | 2026-10-17 | 2 | 17 | 3 | 2 | 7 | 57 |
+| last60d | 2026-09-17 | 2 | 27 | 3 | 16 | 10 | 99 |
+| 90d | 2026-08-18 | 2 | 33 | 3 | 17 | 11 | 137 |
+| last180d | 2026-05-20 | 2 | 55 | 3 | 32 | 14 | 278 |
+| 360d | 2025-11-21 | 4 | 146 | 10 | 70 | 41 | 656 |
+| last720d | 2024-11-26 | 6 | 325 | 11 | 146 | 101 | 1060 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T07:20:54Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T07:30:10Z._
