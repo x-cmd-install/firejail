@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.9.82.2` (2026-11-03)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,738 · **Forks**: 677 · **Open issues**: 3,548 · **Contributors**: 347
+- **Stars**: 7,739 · **Forks**: 676 · **Open issues**: 3,548 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2695 · **Open PRs**: 20 · **Closed issues**: 3038 · **Open issues**: 510 · **Commits**: 11274
+- **Releases**: 18 · **Merged PRs**: 2695 · **Open PRs**: 21 · **Closed issues**: 3038 · **Open issues**: 510 · **Commits**: 11275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 17 | 3 | 2 | 7 | 57 |
-| last60d | 2026-09-17 | 2 | 27 | 3 | 16 | 10 | 99 |
-| 90d | 2026-08-18 | 2 | 33 | 3 | 17 | 11 | 137 |
-| last180d | 2026-05-20 | 2 | 55 | 3 | 32 | 14 | 278 |
-| 360d | 2025-11-21 | 4 | 146 | 10 | 70 | 41 | 656 |
-| last720d | 2024-11-26 | 6 | 325 | 11 | 146 | 101 | 1060 |
+| 30d | 2026-10-18 | 2 | 17 | 5 | 2 | 7 | 58 |
+| last60d | 2026-09-18 | 2 | 27 | 5 | 16 | 10 | 100 |
+| 90d | 2026-08-19 | 2 | 33 | 5 | 17 | 11 | 138 |
+| last180d | 2026-05-21 | 2 | 55 | 5 | 32 | 14 | 279 |
+| 360d | 2025-11-22 | 4 | 145 | 11 | 70 | 41 | 657 |
+| last720d | 2024-11-27 | 6 | 325 | 12 | 146 | 101 | 1061 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **104** distros on [repology.org](https://repology.org/project/firejail). **19** are ✅ on the latest upstream release, **74** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/firejail). **21** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -89,7 +89,7 @@ Reported by **104** distros on [repology.org](https://repology.org/project/firej
 | Fedora rawhide | `0.9.82.2` | ✅ latest |
 | Nix unstable | `0.9.82` | ⚠️ outdated |
 | Void | `0.9.80` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.9.80` | ⚠️ outdated |
+| openSUSE Tumbleweed | `0.9.82.2` | ✅ latest |
 
 ## Improve this data
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T07:30:10Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:11:33Z._
