@@ -31,59 +31,6 @@
     - 7c6f434c@mail.ru
   licenses:
     - GPL-2.0-or-later
-- repo: raspbian_oldstable
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.72
-  origversion: 0.9.72-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: nix_stable_25_11
-  srcname: firejail
-  visiblename: firejail
-  version: 0.9.76
-  origversion: null
-  status: outdated
-  summary: Namespace-based sandboxing tool for Linux
-  maintainers:
-    - 7c6f434c@mail.ru
-  licenses:
-    - GPL-2.0-or-later
-- repo: raspbian_stable
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.74
-  origversion: 0.9.74-1
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
 - repo: aosc
   srcname: app-admin/firejail
   binname: firejail
@@ -100,21 +47,38 @@
   srcname: firejail
   binname: firejail
   visiblename: firejail
-  version: 0.9.80
+  version: 0.9.82.2
   origversion: null
-  status: outdated
+  status: newest
   summary: Linux namespaces sandbox program
-- repo: chimera
-  subrepo: user
+- repo: deepin_25
+  subrepo: community
   srcname: firejail
-  binname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
   visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-r0
+  version: 0.9.74
+  origversion: 0.9.74-1
   status: outdated
-  summary: SUID sandboxing tool
-  licenses:
-    - GPL-2.0-only
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.64.4
+  origversion: 0.9.64.4-2+deb11u1
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
 - repo: alt_p11
   srcname: firejail
   binnames:
@@ -147,19 +111,6 @@
     - GPLv2+
   categories:
     - Development/Tools
-- repo: mx_23_testing
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-1~mx23+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - utils
 - repo: arch
   subrepo: extra
   srcname: firejail
@@ -192,6 +143,17 @@
   origversion: 0.9.80-1
   status: outdated
   summary: Linux namespaces sandbox program
+  licenses:
+    - GPL-2.0-only
+- repo: chimera
+  subrepo: user
+  srcname: firejail
+  binname: firejail
+  visiblename: firejail
+  version: 0.9.80
+  origversion: 0.9.80-r0
+  status: outdated
+  summary: SUID sandboxing tool
   licenses:
     - GPL-2.0-only
 - repo: chimera
@@ -250,7 +212,7 @@
   licenses:
     - GPL-2
 - repo: debian_11
-  subrepo: bullseye-security/main
+  subrepo: bullseye/main
   srcname: firejail
   binnames:
     - firejail
@@ -264,7 +226,7 @@
   categories:
     - misc
 - repo: debian_11
-  subrepo: bullseye/main
+  subrepo: bullseye-security/main
   srcname: firejail
   binnames:
     - firejail
@@ -328,34 +290,6 @@
   visiblename: firejail
   version: 0.9.80
   origversion: 0.9.80-2
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.74
-  origversion: 0.9.74-1
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - misc
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.64.4
-  origversion: 0.9.64.4-2+deb11u1
   status: outdated
   maintainers:
     - reiner@reiner-h.de
@@ -433,22 +367,6 @@
   categories:
     - Unspecified
 - repo: fedora_40
-  subrepo: updates
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-debuginfo
-    - firejail-debugsource
-  visiblename: firejail
-  version: 0.9.74
-  origversion: 0.9.74-1.fc40
-  status: outdated
-  summary: Linux namespaces sandbox program
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_40
   subrepo: release
   srcname: firejail
   binnames:
@@ -459,6 +377,22 @@
   version: 0.9.72
   origversion: 0.9.72-5.fc40
   status: legacy
+  summary: Linux namespaces sandbox program
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_40
+  subrepo: updates
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-debuginfo
+    - firejail-debugsource
+  visiblename: firejail
+  version: 0.9.74
+  origversion: 0.9.74-1.fc40
+  status: outdated
   summary: Linux namespaces sandbox program
   licenses:
     - GPL-2.0-or-later
@@ -493,20 +427,6 @@
   categories:
     - Unspecified
 - repo: fedora_42
-  subrepo: release
-  srcname: firejail
-  binnames:
-    - firejail
-  visiblename: firejail
-  version: 0.9.72
-  origversion: 0.9.72-7.fc42
-  status: legacy
-  summary: Linux namespaces sandbox program
-  licenses:
-    - GPL-2.0-or-later
-  categories:
-    - Unspecified
-- repo: fedora_42
   subrepo: updates
   srcname: firejail
   binnames:
@@ -515,6 +435,20 @@
   version: 0.9.80
   origversion: 0.9.80-1.fc42
   status: outdated
+  summary: Linux namespaces sandbox program
+  licenses:
+    - GPL-2.0-or-later
+  categories:
+    - Unspecified
+- repo: fedora_42
+  subrepo: release
+  srcname: firejail
+  binnames:
+    - firejail
+  visiblename: firejail
+  version: 0.9.72
+  origversion: 0.9.72-7.fc42
+  status: legacy
   summary: Linux namespaces sandbox program
   licenses:
     - GPL-2.0-or-later
@@ -646,19 +580,6 @@
     - GPL-2
   categories:
     - sys-apps
-- repo: mx_25_testing
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.80
-  origversion: 0.9.80-1~mx25+1
-  status: outdated
-  maintainers:
-    - stevep@mxlinux.org
-  categories:
-    - utils
 - repo: kali_rolling
   subrepo: main
   srcname: firejail
@@ -743,22 +664,6 @@
     - GPL-2
   categories:
     - sys-apps
-- repo: mageia_9
-  subrepo: core/release
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-debuginfo
-    - firejail-debugsource
-  visiblename: firejail
-  version: 0.9.72
-  origversion: 0.9.72-1.mga9
-  status: outdated
-  summary: SUID sandbox program
-  licenses:
-    - GPLv2
-  categories:
-    - System/Base
 - repo: mageia_10
   subrepo: core/release
   srcname: firejail
@@ -833,6 +738,43 @@
     - stevep@mxlinux.org
   categories:
     - utils
+- repo: mx_23_testing
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.80
+  origversion: 0.9.80-1~mx23+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - utils
+- repo: mx_25_testing
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.80
+  origversion: 0.9.80-1~mx25+1
+  status: outdated
+  maintainers:
+    - stevep@mxlinux.org
+  categories:
+    - utils
+- repo: nix_stable_25_11
+  srcname: firejail
+  visiblename: firejail
+  version: 0.9.76
+  origversion: null
+  status: outdated
+  summary: Namespace-based sandboxing tool for Linux
+  maintainers:
+    - 7c6f434c@mail.ru
+  licenses:
+    - GPL-2.0-or-later
 - repo: nix_stable_26_05
   srcname: firejail
   visiblename: firejail
@@ -1057,6 +999,48 @@
     - reiner@reiner-h.de
   categories:
     - utils
+- repo: raspbian_oldstable
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.72
+  origversion: 0.9.72-2
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
+- repo: raspbian_stable
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.74
+  origversion: 0.9.74-1
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.80
+  origversion: 0.9.80-2
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - misc
 - repo: rosa_2019_1
   subrepo: contrib/release
   srcname: firejail
@@ -1332,20 +1316,6 @@
     - utils
   vulnerable: true
 - repo: ubuntu_16_04
-  subrepo: xenial-updates/universe
-  srcname: firejail
-  binnames:
-    - firejail
-  visiblename: firejail
-  version: 0.9.38.10
-  origversion: 0.9.38.10-0ubuntu0.16.04.1
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_16_04
   subrepo: xenial/universe
   srcname: firejail
   binnames:
@@ -1354,6 +1324,20 @@
   version: 0.9.38
   origversion: 0.9.38-1
   status: legacy
+  maintainers:
+    - reiner@reiner-h.de
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_16_04
+  subrepo: xenial-updates/universe
+  srcname: firejail
+  binnames:
+    - firejail
+  visiblename: firejail
+  version: 0.9.38.10
+  origversion: 0.9.38.10-0ubuntu0.16.04.1
+  status: outdated
   maintainers:
     - reiner@reiner-h.de
   categories:
@@ -1375,21 +1359,6 @@
     - universe/misc
   vulnerable: true
 - repo: ubuntu_20_04
-  subrepo: focal/universe
-  srcname: firejail
-  binnames:
-    - firejail
-    - firejail-profiles
-  visiblename: firejail
-  version: 0.9.62
-  origversion: 0.9.62-3
-  status: outdated
-  maintainers:
-    - reiner@reiner-h.de
-  categories:
-    - universe/misc
-  vulnerable: true
-- repo: ubuntu_20_04
   subrepo: focal-updates/universe
   srcname: firejail
   binnames:
@@ -1401,6 +1370,21 @@
   status: outdated
   maintainers:
     - ubuntu-devel-discuss@lists.ubuntu.com
+  categories:
+    - universe/misc
+  vulnerable: true
+- repo: ubuntu_20_04
+  subrepo: focal/universe
+  srcname: firejail
+  binnames:
+    - firejail
+    - firejail-profiles
+  visiblename: firejail
+  version: 0.9.62
+  origversion: 0.9.62-3
+  status: outdated
+  maintainers:
+    - reiner@reiner-h.de
   categories:
     - universe/misc
   vulnerable: true
