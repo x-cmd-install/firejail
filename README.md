@@ -14,23 +14,23 @@ x install firejail
 
 ## Code insight
 
-Total: **57,804** lines of code across **282** files in the top 5 languages.
+Total: **57,826** lines of code across **282** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,685 | 5,636 | 4,967 | 137 |
+| C | 32,698 | 5,636 | 4,967 | 137 |
 | CHeader | 14,124 | 723 | 340 | 56 |
-| Autoconf | 5,364 | 186 | 714 | 13 |
+| Autoconf | 5,373 | 186 | 706 | 13 |
 | Bitbake | 2,577 | 263 | 144 | 32 |
 | Sh | 1,618 | 316 | 429 | 44 |
 
 ## OpenSSF Scorecard
 
-Overall score: **6.4 / 10**
+Overall score: **6.5 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 2/28 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **Packaging** (-1/10) — packaging workflow not detected
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.9.82.2` (2026-11-03)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,739 · **Forks**: 676 · **Open issues**: 3,548 · **Contributors**: 347
+- **Stars**: 7,745 · **Forks**: 676 · **Open issues**: 3,548 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2695 · **Open PRs**: 21 · **Closed issues**: 3038 · **Open issues**: 510 · **Commits**: 11275
+- **Releases**: 18 · **Merged PRs**: 2698 · **Open PRs**: 19 · **Closed issues**: 3040 · **Open issues**: 508 · **Commits**: 11287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 17 | 5 | 2 | 7 | 58 |
-| last60d | 2026-09-18 | 2 | 27 | 5 | 16 | 10 | 100 |
-| 90d | 2026-08-19 | 2 | 33 | 5 | 17 | 11 | 138 |
-| last180d | 2026-05-21 | 2 | 55 | 5 | 32 | 14 | 279 |
-| 360d | 2025-11-22 | 4 | 145 | 11 | 70 | 41 | 657 |
-| last720d | 2024-11-27 | 6 | 325 | 12 | 146 | 101 | 1061 |
+| 30d | 2026-10-20 | 2 | 18 | 4 | 3 | 6 | 68 |
+| last60d | 2026-09-20 | 2 | 29 | 4 | 17 | 9 | 110 |
+| 90d | 2026-08-21 | 2 | 33 | 4 | 18 | 10 | 148 |
+| last180d | 2026-05-23 | 2 | 56 | 4 | 33 | 13 | 289 |
+| 360d | 2025-11-24 | 4 | 147 | 9 | 72 | 39 | 669 |
+| last720d | 2024-11-29 | 6 | 327 | 10 | 148 | 99 | 1073 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/firejail). **21** are ✅ on the latest upstream release, **73** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/firejail). **22** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:11:33Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T09:36:10Z._
