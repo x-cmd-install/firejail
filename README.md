@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 18 | 4 | 3 | 6 | 68 |
-| last60d | 2026-09-20 | 2 | 29 | 4 | 17 | 9 | 110 |
-| 90d | 2026-08-21 | 2 | 33 | 4 | 18 | 10 | 148 |
-| last180d | 2026-05-23 | 2 | 56 | 4 | 33 | 13 | 289 |
-| 360d | 2025-11-24 | 4 | 147 | 9 | 72 | 39 | 669 |
-| last720d | 2024-11-29 | 6 | 327 | 10 | 148 | 99 | 1073 |
+| 30d | 2026-10-21 | 2 | 18 | 4 | 3 | 6 | 68 |
+| last60d | 2026-09-21 | 2 | 29 | 4 | 17 | 9 | 110 |
+| 90d | 2026-08-22 | 2 | 33 | 4 | 18 | 10 | 148 |
+| last180d | 2026-05-24 | 2 | 56 | 4 | 33 | 13 | 289 |
+| 360d | 2025-11-25 | 4 | 147 | 9 | 72 | 39 | 669 |
+| last720d | 2024-11-30 | 6 | 325 | 10 | 148 | 99 | 1070 |
 
 ## Release assets
 
@@ -76,18 +76,18 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **105** distros on [repology.org](https://repology.org/project/firejail). **22** are ✅ on the latest upstream release, **71** are ⚠️ on an older version.
+Reported by **106** distros on [repology.org](https://repology.org/project/firejail). **25** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Debian unstable | `0.9.80` | ⚠️ outdated |
+| Debian unstable | `0.9.80` | 🪦 legacy |
 | Debian 14 | `0.9.80` | ⚠️ outdated |
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
 | Arch | `0.9.82.2` | ✅ latest |
 | Fedora rawhide | `0.9.82.2` | ✅ latest |
-| Nix unstable | `0.9.82` | ⚠️ outdated |
+| Nix unstable | `0.9.82.2` | ✅ latest |
 | Void | `0.9.80` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.82.2` | ✅ latest |
 
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T09:36:10Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T07:43:45Z._

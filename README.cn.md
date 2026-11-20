@@ -58,12 +58,12 @@ x install firejail
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 2 | 18 | 4 | 3 | 6 | 68 |
-| last60d | 2026-09-20 | 2 | 29 | 4 | 17 | 9 | 110 |
-| 90d | 2026-08-21 | 2 | 33 | 4 | 18 | 10 | 148 |
-| last180d | 2026-05-23 | 2 | 56 | 4 | 33 | 13 | 289 |
-| 360d | 2025-11-24 | 4 | 147 | 9 | 72 | 39 | 669 |
-| last720d | 2024-11-29 | 6 | 327 | 10 | 148 | 99 | 1073 |
+| 30d | 2026-10-21 | 2 | 18 | 4 | 3 | 6 | 68 |
+| last60d | 2026-09-21 | 2 | 29 | 4 | 17 | 9 | 110 |
+| 90d | 2026-08-22 | 2 | 33 | 4 | 18 | 10 | 148 |
+| last180d | 2026-05-24 | 2 | 56 | 4 | 33 | 13 | 289 |
+| 360d | 2025-11-25 | 4 | 147 | 9 | 72 | 39 | 669 |
+| last720d | 2024-11-30 | 6 | 325 | 10 | 148 | 99 | 1070 |
 
 ## Release 资产
 
@@ -76,18 +76,18 @@ x install firejail
 
 ## 发行版状态
 
-在 [repology.org](https://repology.org/project/firejail) 上共有 **105** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**71** 个 ⚠️ 使用旧版本。
+在 [repology.org](https://repology.org/project/firejail) 上共有 **106** 个发行版报告此项目。**25** 个 ✅ 已是最新上游版本，**68** 个 ⚠️ 使用旧版本。
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Debian unstable | `0.9.80` | ⚠️ outdated |
+| Debian unstable | `0.9.80` | 🪦 legacy |
 | Debian 14 | `0.9.80` | ⚠️ outdated |
 | Debian 13 | `0.9.74` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
 | Arch | `0.9.82.2` | ✅ latest |
 | Fedora rawhide | `0.9.82.2` | ✅ latest |
-| Nix unstable | `0.9.82` | ⚠️ outdated |
+| Nix unstable | `0.9.82.2` | ✅ latest |
 | Void | `0.9.80` | ⚠️ outdated |
 | openSUSE Tumbleweed | `0.9.82.2` | ✅ latest |
 
@@ -100,4 +100,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261119.yml` · 2026-11-19T09:36:10Z._
+_数据快照: `data/card/261120.yml` · 2026-11-20T07:43:45Z._
