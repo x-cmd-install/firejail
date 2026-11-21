@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 7,745 · **Forks**: 676 · **Open issues**: 3,548 · **Contributors**: 347
+- **Stars**: 7,746 · **Forks**: 675 · **Open issues**: 3,549 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2698 · **Open PRs**: 19 · **Closed issues**: 3040 · **Open issues**: 508 · **Commits**: 11287
+- **Releases**: 18 · **Merged PRs**: 2698 · **Open PRs**: 19 · **Closed issues**: 3040 · **Open issues**: 509 · **Commits**: 11287
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 18 | 4 | 3 | 6 | 68 |
-| last60d | 2026-09-21 | 2 | 29 | 4 | 17 | 9 | 110 |
-| 90d | 2026-08-22 | 2 | 33 | 4 | 18 | 10 | 148 |
-| last180d | 2026-05-24 | 2 | 56 | 4 | 33 | 13 | 289 |
-| 360d | 2025-11-25 | 4 | 147 | 9 | 72 | 39 | 669 |
-| last720d | 2024-11-30 | 6 | 325 | 10 | 148 | 99 | 1070 |
+| 30d | 2026-10-22 | 2 | 17 | 4 | 3 | 7 | 68 |
+| last60d | 2026-09-22 | 2 | 28 | 4 | 17 | 10 | 110 |
+| 90d | 2026-08-23 | 2 | 33 | 4 | 18 | 11 | 148 |
+| last180d | 2026-05-25 | 2 | 56 | 4 | 33 | 14 | 289 |
+| 360d | 2025-11-26 | 4 | 147 | 9 | 72 | 39 | 669 |
+| last720d | 2024-12-01 | 6 | 322 | 10 | 148 | 100 | 1068 |
 
 ## Release assets
 
@@ -76,7 +76,7 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **106** distros on [repology.org](https://repology.org/project/firejail). **25** are ✅ on the latest upstream release, **68** are ⚠️ on an older version.
+Reported by **105** distros on [repology.org](https://repology.org/project/firejail). **25** are ✅ on the latest upstream release, **67** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -100,4 +100,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:43:45Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:52:25Z._
