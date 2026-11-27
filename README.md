@@ -14,11 +14,11 @@ x install firejail
 
 ## Code insight
 
-Total: **57,944** lines of code across **283** files in the top 5 languages.
+Total: **57,949** lines of code across **283** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| C | 32,753 | 5,638 | 4,969 | 137 |
+| C | 32,758 | 5,640 | 4,970 | 137 |
 | CHeader | 14,124 | 723 | 340 | 56 |
 | Autoconf | 5,422 | 192 | 712 | 13 |
 | Bitbake | 2,577 | 263 | 144 | 32 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.9.82.2` (2026-11-03)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-26
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 7,754 · **Forks**: 675 · **Open issues**: 3,549 · **Contributors**: 347
+- **Stars**: 7,754 · **Forks**: 676 · **Open issues**: 3,549 · **Contributors**: 347
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2701 · **Open PRs**: 19 · **Closed issues**: 3040 · **Open issues**: 509 · **Commits**: 11294
+- **Releases**: 18 · **Merged PRs**: 2702 · **Open PRs**: 18 · **Closed issues**: 3041 · **Open issues**: 508 · **Commits**: 11296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 16 | 4 | 3 | 6 | 65 |
-| last60d | 2026-09-27 | 2 | 31 | 4 | 16 | 7 | 117 |
-| 90d | 2026-08-28 | 2 | 35 | 4 | 17 | 11 | 153 |
-| last180d | 2026-05-30 | 2 | 59 | 4 | 33 | 13 | 292 |
-| 360d | 2025-12-01 | 4 | 146 | 9 | 71 | 39 | 662 |
-| last720d | 2024-12-06 | 6 | 325 | 10 | 148 | 99 | 1061 |
+| 30d | 2026-10-28 | 2 | 17 | 3 | 4 | 5 | 67 |
+| last60d | 2026-09-28 | 2 | 32 | 3 | 17 | 6 | 119 |
+| 90d | 2026-08-29 | 2 | 36 | 3 | 18 | 10 | 155 |
+| last180d | 2026-05-31 | 2 | 60 | 3 | 34 | 12 | 294 |
+| 360d | 2025-12-02 | 4 | 147 | 8 | 72 | 38 | 664 |
+| last720d | 2024-12-07 | 6 | 326 | 9 | 149 | 98 | 1063 |
 
 ## Release assets
 
@@ -74,23 +74,6 @@ Lowest-scoring checks:
 | [firejail-0.9.82.2.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz.asc) | 488 B | `other` |
 | [firejail_0.9.82.2_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail_0.9.82.2_1_amd64.deb) | 528.4 KiB | `runtime/deb/amd64` |
 
-## Distribution status
-
-Reported by **103** distros on [repology.org](https://repology.org/project/firejail). **30** are ✅ on the latest upstream release, **61** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `0.9.82.2` | ✅ latest |
-| Debian 14 | `0.9.82.2` | ✅ latest |
-| Debian 13 | `0.9.74` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.82.2` | ✅ latest |
-| Fedora rawhide | `0.9.82.2` | ✅ latest |
-| Nix unstable | `0.9.82.2` | ✅ latest |
-| Void | `0.9.80` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.9.82.2` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `firejail` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -100,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:59:42Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:38:16Z._

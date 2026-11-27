@@ -14,11 +14,11 @@ x install firejail
 
 ## 代码洞察
 
-合计: **57,944** 行代码（覆盖前 5 种语言、共 **283** 个文件）。
+合计: **57,949** 行代码（覆盖前 5 种语言、共 **283** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| C | 32,753 | 5,638 | 4,969 | 137 |
+| C | 32,758 | 5,640 | 4,970 | 137 |
 | CHeader | 14,124 | 723 | 340 | 56 |
 | Autoconf | 5,422 | 192 | 712 | 13 |
 | Bitbake | 2,577 | 263 | 144 | 32 |
@@ -43,27 +43,27 @@ x install firejail
 ## 发布
 
 - **最新版本**: `0.9.82.2` (2026-11-03)
-- **最近提交**: 2026-11-25
+- **最近提交**: 2026-11-26
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 7,754 · **Fork**: 675 · **开放 issue**: 3,549 · **贡献者**: 347
+- **Star**: 7,754 · **Fork**: 676 · **开放 issue**: 3,549 · **贡献者**: 347
 
 ## 累计统计
 
-- **发布数**: 18 · **已合并 PR**: 2701 · **开放 PR**: 19 · **已关闭 issue**: 3040 · **开放 issue**: 509 · **提交数**: 11294
+- **发布数**: 18 · **已合并 PR**: 2702 · **开放 PR**: 18 · **已关闭 issue**: 3041 · **开放 issue**: 508 · **提交数**: 11296
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 2 | 16 | 4 | 3 | 6 | 65 |
-| last60d | 2026-09-27 | 2 | 31 | 4 | 16 | 7 | 117 |
-| 90d | 2026-08-28 | 2 | 35 | 4 | 17 | 11 | 153 |
-| last180d | 2026-05-30 | 2 | 59 | 4 | 33 | 13 | 292 |
-| 360d | 2025-12-01 | 4 | 146 | 9 | 71 | 39 | 662 |
-| last720d | 2024-12-06 | 6 | 325 | 10 | 148 | 99 | 1061 |
+| 30d | 2026-10-28 | 2 | 17 | 3 | 4 | 5 | 67 |
+| last60d | 2026-09-28 | 2 | 32 | 3 | 17 | 6 | 119 |
+| 90d | 2026-08-29 | 2 | 36 | 3 | 18 | 10 | 155 |
+| last180d | 2026-05-31 | 2 | 60 | 3 | 34 | 12 | 294 |
+| 360d | 2025-12-02 | 4 | 147 | 8 | 72 | 38 | 664 |
+| last720d | 2024-12-07 | 6 | 326 | 9 | 149 | 98 | 1063 |
 
 ## Release 资产
 
@@ -74,23 +74,6 @@ x install firejail
 | [firejail-0.9.82.2.tar.xz.asc](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail-0.9.82.2.tar.xz.asc) | 488 B | `other` |
 | [firejail_0.9.82.2_1_amd64.deb](https://github.com/netblue30/firejail/releases/download/0.9.82.2/firejail_0.9.82.2_1_amd64.deb) | 528.4 KiB | `runtime/deb/amd64` |
 
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/firejail) 上共有 **103** 个发行版报告此项目。**30** 个 ✅ 已是最新上游版本，**61** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `0.9.82.2` | ✅ latest |
-| Debian 14 | `0.9.82.2` | ✅ latest |
-| Debian 13 | `0.9.74` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `0.9.72` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `0.9.72` | ⚠️ outdated |
-| Arch | `0.9.82.2` | ✅ latest |
-| Fedora rawhide | `0.9.82.2` | ✅ latest |
-| Nix unstable | `0.9.82.2` | ✅ latest |
-| Void | `0.9.80` | ⚠️ outdated |
-| openSUSE Tumbleweed | `0.9.82.2` | ✅ latest |
-
 ## 改进这些数据
 
 firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `firejail` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -100,4 +83,4 @@ firejail 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:59:43Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T09:38:17Z._
