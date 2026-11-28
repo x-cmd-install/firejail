@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 2702 · **Open PRs**: 18 · **Closed issues**: 3041 · **Open issues**: 508 · **Commits**: 11296
+- **Releases**: 18 · **Merged PRs**: 2702 · **Open PRs**: 19 · **Closed issues**: 3041 · **Open issues**: 508 · **Commits**: 11296
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 2 | 17 | 3 | 4 | 5 | 67 |
-| last60d | 2026-09-28 | 2 | 32 | 3 | 17 | 6 | 119 |
-| 90d | 2026-08-29 | 2 | 36 | 3 | 18 | 10 | 155 |
-| last180d | 2026-05-31 | 2 | 60 | 3 | 34 | 12 | 294 |
-| 360d | 2025-12-02 | 4 | 147 | 8 | 72 | 38 | 664 |
-| last720d | 2024-12-07 | 6 | 326 | 9 | 149 | 98 | 1063 |
+| 30d | 2026-10-29 | 2 | 17 | 4 | 4 | 4 | 67 |
+| last60d | 2026-09-29 | 2 | 32 | 4 | 17 | 6 | 119 |
+| 90d | 2026-08-30 | 2 | 35 | 4 | 18 | 10 | 155 |
+| last180d | 2026-06-01 | 2 | 58 | 4 | 33 | 12 | 294 |
+| 360d | 2025-12-03 | 4 | 146 | 9 | 72 | 37 | 664 |
+| last720d | 2024-12-08 | 6 | 326 | 10 | 149 | 98 | 1063 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for firejail lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:38:16Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:00:24Z._
